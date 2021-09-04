@@ -1,0 +1,122 @@
+/*******************TAG SELECTOR******************************/
+a{
+    color: #b3ffff;
+    font-family:'Montserrat', sans-serif;
+    font-weight: bold;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #ffffff;
+}
+body{
+    color: #40514e;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    color: #66bfbf;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0;
+}
+h2{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border: dotted #EAf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+p{
+    line-height: 2;
+}
+span{
+    text-decoration: underline;
+}
+
+/************************CLASS SELECTOR*********************/
+.bottom-cloud{
+    position: absolute;
+    top: 500px;
+    left: 20%;
+
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+.btn {
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 100px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #66bfbf;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: #36c9c9;
+    text-decoration: none;
+  }
+.code-img{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+.contact-me{
+    margin: auto;
+}
+.contact-me p{
+    margin: 40px auto 60px;
+    width: 40%;
+
+}
+.copyright{
+    color: #b3ffff;
+    font-size: 0.75rem;
+    padding: 20px 0;
+
+}
+.hobby-img{
+    width: 25%;
+    margin-left: 30px;
+    float: right;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.profile p{
+    margin: auto;
+    width: 40%;
+}
+.skill-row{
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+   
+}
+.top-cloud{
+    position: absolute;
+    right: 20%;
+    top: 50px;
+}
+.top-container{
+    background-color: #e4f9f5;
+    height: 100vh;
+    padding-top: 100px;
+    position: relative;
+
+}
